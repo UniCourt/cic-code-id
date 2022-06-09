@@ -32,7 +32,7 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-id
 
  **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
  
- **Tennessee (Tn):** https://unicourt.github.io/cic-code-tn
+ **Tennessee (TN):** https://unicourt.github.io/cic-code-tn
  
  **Vermont (VT):** https://unicourt.github.io/cic-code-vt  
 
